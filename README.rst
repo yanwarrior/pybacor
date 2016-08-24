@@ -2,7 +2,7 @@
 Pybacor
 =======
 
-Ibacor API for Python.
+Ibacor API for Python. Check `PyPI <https://pypi.python.org/pypi/pybacor/1.1.0>`_ .
 
 Installing
 ^^^^^^^^^^
